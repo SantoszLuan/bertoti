@@ -28,3 +28,8 @@ Trade-off: Melhorar a performance de um sistema às vezes exige técnicas mais c
 Impacto: Isso pode tornar o código mais difícil de entender e manter, mesmo que ele seja mais rápido na execução.
 
 
+<h2> Classes UML </h2>
+
+
+
+
