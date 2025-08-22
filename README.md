@@ -1,4 +1,4 @@
-<h1> Software Engineering at Google, Oreilly. </h1>
+<center> <h1> Software Engineering at Google, Oreilly. </h1> </center>
 
 <h2> Primeiro Trecho: </h2>
 Discute a diferença entre programação, ciência da computação e engenharia de software. Ele destaca que, embora muitas vezes sejam tratados como sinônimos, cada termo tem um foco diferente. A ciência da computação é mais teórica; programação é o ato de escrever código; já a engenharia de software envolve aplicar conhecimento técnico de forma sistemática para construir sistemas reais e confiáveis. Também compara a engenharia de software com outras engenharias tradicionais (como a civil ou a aeronáutica), que têm processos rigorosos e consequências diretas no mundo físico. A engenharia de software ainda não tem esse mesmo nível de rigor, mas deveria caminhar nessa direção — principalmente porque hoje os softwares impactam cada vez mais o nosso cotidiano. O objetivo é que os desenvolvedores adotem práticas mais sérias e sustentáveis, assim como em outras engenharias.
